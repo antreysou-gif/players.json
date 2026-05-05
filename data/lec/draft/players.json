@@ -9591,12 +9591,22 @@
           ],
           [
             "Jax",
-            85
+            100
           ],
           [
-            "Renekton",
-            85
+            "Gangplank",
+            100
           ],
+
+          [
+            "Renekton",
+            100
+          ],
+	        [
+            "Darius",
+            100
+          ],
+
           [
             "Ambessa",
             70
@@ -9606,35 +9616,35 @@
             70
           ],
           [
-            "Sion",
-            55
+            "Ornn",
+            70
           ],
           [
             "Gwen",
-            55
+            70
           ],
           [
             "Aatrox",
             55
           ],
           [
-            "Ornn",
-            40
+            "Sett",
+            55
           ],
           [
-            "Darius",
+            "Gragas",
+            55
+          ],
+          [
+            "Kennen",
             40
           ],
           [
             "Yorick",
-            40
-          ],
-          [
-            "Gragas",
             25
           ],
           [
-            "Kennen",
+            "Malphite",
             25
           ],
           [
@@ -9669,44 +9679,73 @@
             "Xin Zhao",
             100
           ],
+	        [
+            "Trundle",
+            100
+          ],
+	        [
+            "Ivern",
+            100
+          ],
+          [
+            "Lee Sin",
+            100
+          ],
+   	      [
+            "Sejuani",
+            100
+          ],
+	        [
+            "Gragas",
+            100
+          ],
+	        [
+            "Jarvan IV",
+            100
+          ],
+	        [
+            "Maokai",
+            100
+          ],
           [
             "Pantheon",
             85
           ],
-          [
-            "Sejuani",
+	        [
+            "Skarner",
             85
           ],
+	        [
+            "Poppy",
+            70
+          ],
+	        [
+            "Elise",
+            70
+          ],
+
           [
             "Wukong",
             70
           ],
           [
-            "Maokai",
+            "Viego",
             70
           ],
           [
-            "Poppy",
-            55
-          ],
-          [
-            "Jarvan IV",
+            "Nocturne",
             55
           ],
           [
             "Zyra",
             55
-          ],
-          [
-            "Skarner",
-            40
-          ],
+          ],          
           [
             "Brand",
             40
           ],
           [
-            "Ivern",
+            "Kindred",
             40
           ],
           [
@@ -9722,6 +9761,7 @@
             25
           ]
         ],
+
         "photo": "/images/players/Razork.webp"
       },
       {
@@ -9751,18 +9791,30 @@
           ],
           [
             "Viktor",
-            85
+            100
           ],
           [
-            "Orianna",
-            85
+            "Ryze",
+            100
           ],
           [
             "Yone",
-            70
+            100
           ],
           [
+            "Sylas",
+            85
+          ],
+	        [
+            "Orianna",
+            85
+          ],
+	        [
             "Corki",
+            85
+          ],
+	        [
+            "Jayce",
             70
           ],
           [
@@ -9778,19 +9830,19 @@
             55
           ],
           [
-            "Ryze",
-            40
-          ],
-          [
             "Hwei",
+            55
+          ],
+          [
+            "Syndra",
             40
           ],
           [
-            "Akali",
+            "Vex",
             40
           ],
           [
-            "Sylas",
+            "Yasuo",
             25
           ],
           [
@@ -9831,47 +9883,59 @@
           ],
           [
             "Zeri",
-            85
+            100
           ],
           [
-            "Varus",
+            "Aphelios",
             85
           ],
           [
             "Xayah",
-            70
+            85
           ],
           [
             "Yunara",
+            85
+          ],
+	        [
+            "Lucian",
             70
+          ],
+	        [
+            "Jhin",
+            70
+          ],
+	        [
+            "Varus",
+            55
           ],
           [
             "Kalista",
             55
           ],
           [
-            "Corki",
-            55
-          ],
-          [
-            "Lucian",
+            "Caitlyn",
             55
           ],
           [
             "Miss Fortune",
+            55
+          ],
+          [
+            "Sivir",
+            55
+          ],
+          [
+            "Ashe",
             40
           ],
           [
-            "Jhin",
+            "Corki",
             40
           ],
           [
-            "Caitlyn",
+            "Twitch",
             40
-          ],
-          [
-            "Aphelios",
-            25
           ],
           [
             "Senna",
@@ -9882,6 +9946,7 @@
             25
           ]
         ],
+
         "photo": "/images/players/Upset.webp"
       },
       {
@@ -9909,36 +9974,52 @@
             "Rell",
             100
           ],
+	        [
+            "Rakan",
+            100
+          ],
           [
             "Nautilus",
-            85
+            100
           ],
           [
             "Leona",
             85
           ],
           [
-            "Rakan",
-            70
-          ],
-          [
             "Braum",
-            70
+            85
           ],
           [
             "Lulu",
+            70
+          ],
+          [
+            "Nami",
+            70
+          ],
+	        [
+            "Tahm Kench",
             55
+          ],
+          [
+            "Renata Glasc",
+            55
+          ],
+	        [
+            "Seraphine",
+            55
+          ],
+	        [
+            "Neeko",
+            40
+          ],
+	        [
+            "Blitzcrank",
+            40
           ],
           [
             "Thresh",
-            55
-          ],
-          [
-            "Neeko",
-            55
-          ],
-          [
-            "Poppy",
             40
           ],
           [
@@ -9946,22 +10027,23 @@
             40
           ],
           [
-            "Nami",
+            "Soraka",
             40
           ],
           [
-            "Karma",
+            "Sett",
             25
           ],
           [
-            "Taric",
+            "Poppy",
             25
           ],
           [
-            "Gragas",
+            "Milio",
             25
           ]
         ],
+
         "photo": "/images/players/Lospa.webp"
       },
       {
@@ -9991,29 +10073,73 @@
           ],
           [
             "Jax",
-            85
+            100
           ],
           [
             "Sion",
-            85
+            100
           ],
           [
             "Ornn",
-            70
+            100
+          ],
+	        [
+            "Kled",
+            100
+          ],
+	        [
+            "Cho'Gath",
+            100
+          ],
+      	  [
+            "Jayce",
+            85
+          ],
+	        [
+            "Gwen",
+            85
           ],
           [
+            "Kennen",
+            85
+          ],
+          [
+            "Poppy",
+            85
+          ],
+          [
+            "Shen",
+            70
+          ],
+	        [
+            "Gragas",
+            70
+          ],
+	        [
+            "Vladimir",
+            70
+          ],
+	        [
+            "Dr. Mundo",
+            70
+          ],
+	        [
             "Yasuo",
             70
           ],
           [
-            "Poppy",
-            55
+            "Yone",
+            70
           ],
-          [
-            "Rumble",
-            55
+	        [
+            "Rek'Sai",
+            70
           ],
-          [
+      	  [
+            "Olaf",
+            70
+          ],
+	        [
             "Zac",
             55
           ],
@@ -10026,22 +10152,23 @@
             40
           ],
           [
-            "Gnar",
+            "Fiora",
             40
           ],
           [
-            "Kennen",
+            "Volibear",
             25
           ],
           [
-            "Gragas",
+            "Malphite",
             25
           ],
           [
-            "Rek'Sai",
+            "Yorick",
             25
           ]
         ],
+
         "photo": "/images/players/BrokenBlade.webp"
       },
       {
@@ -10071,38 +10198,66 @@
           ],
           [
             "Vi",
-            85
+            100
+          ],
+	        [
+            "Jarvan IV",
+            100
           ],
           [
             "Volibear",
             85
           ],
-          [
-            "Jarvan IV",
-            70
+	        [
+            "Wukong",
+            85
           ],
-          [
+	        [
+            "Dr. Mundo",
+            85
+          ],
+	        [
             "Trundle",
-            70
+            85
           ],
           [
             "Pantheon",
-            55
+            70
           ],
           [
+            "Viego",
+            70
+          ],
+	        [
             "Zyra",
-            55
-          ],
-          [
-            "Wukong",
-            55
+            70
           ],
           [
             "Brand",
+            55
+          ],
+          [
+            "Poppy",
+            55
+          ],
+	        [
+            "Zaahen",
+            55
+          ],
+          [
+            "Nunu",
+            55
+          ],
+	        [
+            "Aatrox",
+            55
+          ],
+          [
+            "Ivern",
             40
           ],
           [
-            "Dr. Mundo",
+            "Skarner",
             40
           ],
           [
@@ -10111,17 +10266,18 @@
           ],
           [
             "Taliyah",
-            25
+            40
           ],
           [
             "Poppy",
-            25
+            40
           ],
           [
             "Sejuani",
             25
           ]
         ],
+
         "photo": "/images/players/SkewMond.webp"
       },
       {
@@ -10149,28 +10305,76 @@
             "Orianna",
             100
           ],
+	        [
+            "LeBlanc",
+            100
+          ],
+	        [
+            "Syndra",
+            100
+          ],
+	        [
+            "Corki",
+	          100
+          ],
           [
-            "Tristana",
-            85
+            "Sylas",
+            100
+          ],
+	        [
+            "Ahri",
+            100
           ],
           [
             "Taliyah",
+            100
+          ],
+	        [
+            "Ryze",
+            100
+          ],
+          [
+            "Anivia",
+            100
+          ],
+	        [
+            "Galio",
+            85
+          ],
+	        [
+            "Akali",
+            85
+          ],
+	        [
+            "Zoe",
+            85
+          ],
+	        [
+            "Yone",
             85
           ],
           [
-            "Corki",
+            "Twisted Fate",
             70
-          ],
-          [
-            "Ahri",
-            70
-          ],
-          [
-            "LeBlanc",
-            55
           ],
           [
             "Annie",
+            70
+          ],
+	        [
+            "Irelia",
+            70
+          ],
+	        [
+            "Viktor",
+            70
+          ],
+          [
+            "Aurora",
+            55
+          ],
+          [
+            "Hwei",
             55
           ],
           [
@@ -10178,27 +10382,27 @@
             55
           ],
           [
-            "Ryze",
+            "Aurelion Sol",
+            55
+          ],
+          [
+            "Swain",
             40
           ],
           [
-            "Hwei",
+            "Karma",
             40
           ],
           [
-            "Viktor",
-            40
-          ],
-          [
-            "Akali",
+            "Veigar",
             25
           ],
           [
-            "Yone",
+            "Malzahar",
             25
           ],
           [
-            "Galio",
+            "Zed",
             25
           ]
         ],
@@ -10229,20 +10433,48 @@
             "Kai'Sa",
             100
           ],
+	        [
+            "Draven",
+            100
+          ],
+	        [
+            "Kalista",
+            100
+          ],
           [
             "Ashe",
-            85
+            100
           ],
           [
-            "Kalista",
-            85
+            "Yunara",
+            100
           ],
           [
+            "Xayah",
+            85
+          ],
+	        [
             "Ezreal",
+            85
+          ],
+          [
+            "Aphelios",
             70
           ],
           [
             "Caitlyn",
+            70
+          ],
+	        [
+            "Sivir",
+            70
+          ],
+	        [
+            "KogMaw",
+            70
+          ],
+	        [
+            "Jhin",
             70
           ],
           [
@@ -10254,15 +10486,19 @@
             55
           ],
           [
-            "Sivir",
+            "Lucian",
             55
           ],
           [
-            "Xayah",
+            "Miss Fortune",
+            55
+          ],
+          [
+            "Smolder",
             40
           ],
           [
-            "Draven",
+            "Zeri",
             40
           ],
           [
@@ -10274,11 +10510,11 @@
             25
           ],
           [
-            "Yunara",
+            "Ziggs",
             25
           ],
           [
-            "Aphelios",
+            "Vayne",
             25
           ]
         ],
@@ -10311,30 +10547,46 @@
           ],
           [
             "Rakan",
-            85
+            100
           ],
+          [
+            "Braum",
+            100
+          ],
+          [
+            "Blitzcrank",
+            100
+          ],          
           [
             "Nautilus",
             85
           ],
           [
-            "Braum",
+            "Thresh",
             70
           ],
+          [
+            "Tahm Kench",
+            70
+          ],          
           [
             "Leona",
             70
           ],
           [
-            "Blitzcrank",
-            55
+            "Lulu",
+            70
           ],
           [
             "Neeko",
-            55
+            70
           ],
           [
             "Bard",
+            55
+          ],
+          [
+            "Seraphine",
             55
           ],
           [
@@ -10342,7 +10594,7 @@
             40
           ],
           [
-            "Lulu",
+            "Yuumi",
             40
           ],
           [
@@ -10350,15 +10602,15 @@
             40
           ],
           [
-            "Thresh",
+            "Milio",
             25
           ],
           [
-            "Nami",
+            "Zilean",
             25
           ],
           [
-            "Seraphine",
+            "Galio",
             25
           ]
         ],
@@ -10386,12 +10638,16 @@
             100
           ],
           [
+            "Sion",
+            100
+          ],
+          [
             "Renekton",
             100
           ],
           [
             "Gnar",
-            85
+            100
           ],
           [
             "Rumble",
@@ -10399,14 +10655,14 @@
           ],
           [
             "Jax",
-            70
+            85
           ],
           [
             "Gwen",
-            70
+            85
           ],
           [
-            "Sion",
+            "Aatrox",
             55
           ],
           [
@@ -10415,7 +10671,7 @@
           ],
           [
             "Ornn",
-            55
+            40
           ],
           [
             "Aatrox",
@@ -10431,14 +10687,18 @@
           ],
           [
             "Yorick",
+            40
+          ],
+          [
+            "Sett",
+            40
+          ],
+          [
+            "Gragas",
             25
           ],
           [
-            "Skarner",
-            25
-          ],
-          [
-            "Vayne",
+            "Sett",
             25
           ]
         ],
@@ -10470,8 +10730,16 @@
             100
           ],
           [
+            "Wukong",
+            100
+          ],
+          [
             "Maokai",
-            85
+            100
+          ],
+          [
+            "Nocturne",
+            100
           ],
           [
             "Vi",
@@ -10482,11 +10750,15 @@
             70
           ],
           [
+            "Diana",
+            70
+          ],
+          [
             "Rell",
             70
           ],
           [
-            "Nocturne",
+            "Hecarim",
             55
           ],
           [
@@ -10502,7 +10774,7 @@
             40
           ],
           [
-            "Wukong",
+            "Viego",
             40
           ],
           [
@@ -10514,7 +10786,7 @@
             25
           ],
           [
-            "Diana",
+            "Lee Sin",
             25
           ],
           [
@@ -10546,31 +10818,39 @@
             100
           ],
           [
+            "Yone",
+            100
+          ],
+          [
+            "Sylas",
+            100
+          ],
+          [
             "Taliyah",
             100
           ],
           [
             "Orianna",
-            85
+            100
           ],
           [
-            "Yone",
+            "Ahri",
             85
           ],
           [
             "Tristana",
+            85
+          ],
+          [
+            "Syndra",
             70
           ],
           [
-            "Akali",
+            "LeBlanc",
             70
           ],
           [
-            "Ahri",
-            55
-          ],
-          [
-            "Sylas",
+            "Ryze",
             55
           ],
           [
@@ -10578,24 +10858,24 @@
             55
           ],
           [
-            "Ryze",
-            40
+            "Jayce",
+            55
           ],
           [
             "Annie",
             40
           ],
           [
-            "LeBlanc",
+            "Akali",
             40
           ],
           [
             "Viktor",
-            25
+            40
           ],
           [
-            "Jayce",
-            25
+            "Irelia",
+            40
           ],
           [
             "Karma",
@@ -10626,35 +10906,47 @@
             100
           ],
           [
+            "Aphelios",
+            100
+          ],
+          [
             "Ezreal",
             100
           ],
           [
             "Kai'Sa",
-            85
+            100
           ],
           [
-            "Corki",
-            85
+            "Xayah",
+            100
           ],
           [
             "Zeri",
-            70
+            85
           ],
           [
             "Kalista",
+            85
+          ],
+          [
+            "Jinx",
             70
+          ],
+          [
+            "Lucian",
+            70
+          ],
+          [
+            "Corki",
+            55
           ],
           [
             "Jhin",
             55
           ],
           [
-            "Lucian",
-            55
-          ],
-          [
-            "Xayah",
+            "Caitlyn",
             55
           ],
           [
@@ -10662,16 +10954,16 @@
             40
           ],
           [
-            "Aphelios",
-            40
-          ],
-          [
-            "Jinx",
-            40
-          ],
-          [
             "Ashe",
-            25
+            40
+          ],
+          [
+            "Sivir",
+            40
+          ],
+          [
+            "Yunara",
+            40
           ],
           [
             "Senna",
@@ -10711,10 +11003,18 @@
           ],
           [
             "Rakan",
-            85
+            100
           ],
           [
             "Alistar",
+            85
+          ],
+          [
+            "Renata",
+            85
+          ],
+          [
+            "Lulu",
             85
           ],
           [
@@ -10730,11 +11030,15 @@
             55
           ],
           [
-            "Renata",
+            "Thresh",
             55
           ],
           [
             "Ashe",
+            55
+          ],
+          [
+            "Braum",
             55
           ],
           [
@@ -10751,14 +11055,18 @@
           ],
           [
             "Poppy",
-            25
+            40
           ],
           [
             "Milio",
-            25
+            40
           ],
           [
-            "Lulu",
+            "Yuumi",
+            40
+          ]
+          [
+            "Tahm Kench",
             25
           ]
         ],
@@ -10786,55 +11094,75 @@
             100
           ],
           [
+            "Renekton",
+            100
+          ],
+          [
             "Gnar",
             100
           ],
           [
             "Jayce",
-            85
+            100
+          ],
+          [
+            "Kennen",
+            100
           ],
           [
             "Ambessa",
+            100
+          ],
+          [
+            "Gwen",
             85
           ],
           [
             "Sion",
-            70
+            85
           ],
           [
             "K'Sante",
             70
           ],
           [
-            "Renekton",
-            55
+            "Camille",
+            70
+          ],
+          [
+            "Jax",
+            70
           ],
           [
             "Aatrox",
             55
           ],
           [
-            "Jax",
+            "Gragas",
             55
           ],
           [
-            "Camille",
+            "Sylas",
             40
           ],
           [
-            "Kennen",
+            "Graves",
             40
           ],
           [
-            "Gwen",
+            "Gangplank",
             40
-          ],
-          [
-            "Gragas",
-            25
           ],
           [
             "Akali",
+            40
+          ],
+          [
+            "Sett",
+            40
+          ],
+          [
+            "Aurora",
             25
           ],
           [
@@ -10866,7 +11194,19 @@
             100
           ],
           [
+            "Viego",
+            100
+          ],
+          [
+            "Lillia",
+            100
+          ],
+          [
             "Xin Zhao",
+            100
+          ],
+          [
+            "Maokai",
             100
           ],
           [
@@ -10874,7 +11214,15 @@
             85
           ],
           [
-            "Maokai",
+            "Jarvan IV",
+            85
+          ],
+          [
+            "Wukong",
+            85
+          ],
+          [
+            "KhaZix",
             85
           ],
           [
@@ -10882,12 +11230,12 @@
             70
           ],
           [
-            "Wukong",
+            "Belveth",
             70
           ],
           [
             "Brand",
-            55
+            70
           ],
           [
             "Jarvan IV",
@@ -10898,11 +11246,19 @@
             55
           ],
           [
+            "Volibear",
+            55
+          ],
+          [
+            "Naafiri",
+            55
+          ],
+          [
             "Pantheon",
             40
           ],
           [
-            "Lillia",
+            "Trundle",
             40
           ],
           [
@@ -10918,7 +11274,7 @@
             25
           ],
           [
-            "Viego",
+            "Olaf",
             25
           ]
         ],
@@ -10958,6 +11314,10 @@
             85
           ],
           [
+            "Aurora",
+            85
+          ],
+          [
             "Hwei",
             70
           ],
@@ -10966,35 +11326,35 @@
             70
           ],
           [
-            "Aurora",
-            55
+            "Viktor",
+            70
           ],
           [
             "Orianna",
-            55
+            70
           ],
           [
             "Corki",
             55
           ],
           [
-            "Viktor",
-            40
+            "Annie",
+            55
           ],
           [
             "Galio",
-            40
-          ],
-          [
-            "LeBlanc",
-            40
+            55
           ],
           [
             "Sylas",
-            25
+            40
           ],
           [
-            "Karma",
+            "Akali",
+            40
+          ],
+          [
+            "Aurelion Sol",
             25
           ],
           [
@@ -11026,15 +11386,31 @@
             100
           ],
           [
+            "Zeri",
+            100
+          ],
+          [
             "Varus",
             100
           ],
           [
             "Miss Fortune",
+            100
+          ],
+          [
+            "Xayah",
+            100
+          ],
+          [
+            "Kai'Sa",
             85
           ],
           [
-            "Zeri",
+            "Ashe",
+            85
+          ],
+          [
+            "Kalista",
             85
           ],
           [
@@ -11042,43 +11418,47 @@
             70
           ],
           [
-            "Kalista",
+            "Draven",
             70
           ],
           [
-            "Kai'Sa",
-            55
-          ],
-          [
-            "Xayah",
-            55
-          ],
-          [
-            "Ashe",
-            55
-          ],
-          [
-            "Draven",
-            40
-          ],
-          [
             "Corki",
-            40
+            70
           ],
           [
             "Yunara",
-            40
-          ],
-          [
-            "Lucian",
-            25
+            70
           ],
           [
             "Aphelios",
-            25
+            55
+          ],
+          [
+            "Sivir",
+            55
+          ],
+          [
+            "Caitlyn",
+            55
+          ],
+          [
+            "Lucian",
+            40
+          ],
+          [
+            "Smolder",
+            40
           ],
           [
             "Jinx",
+            25
+          ],
+          [
+            "Kog'Maw",
+            25
+          ],
+          [
+            "Nilah",
             25
           ]
         ],
@@ -11111,23 +11491,35 @@
           ],
           [
             "Nautilus",
-            85
+            100
           ],
           [
             "Rakan",
-            85
+            100
           ],
           [
             "Bard",
-            70
+            100
           ],
           [
             "Renata",
-            70
+            85
+          ],
+          [
+            "Braum",
+            85
           ],
           [
             "Neeko",
-            55
+            70
+          ],
+          [
+            "Thresh",
+            70
+          ],
+          [
+            "Nami",
+            70
           ],
           [
             "Rell",
@@ -11138,23 +11530,23 @@
             55
           ],
           [
-            "Nami",
-            40
+            "Leona",
+            55
           ],
           [
             "Seraphine",
             40
           ],
           [
-            "Braum",
+            "Ashe",
             40
           ],
           [
-            "Ashe",
-            25
+            "Yuumi",
+            40
           ],
           [
-            "Lulu",
+            "Blitzcrank",
             25
           ],
           [
@@ -11191,18 +11583,42 @@
           ],
           [
             "Ambessa",
-            85
+            100
           ],
           [
             "Gwen",
+            100
+          ],
+          [
+            "Varus",
+            100
+          ],
+          [
+            "Akali",
             85
           ],
           [
-            "Aurora",
+            "Sion",
             70
           ],
           [
-            "Sion",
+            "Zeri",
+            70
+          ],
+          [
+            "Nidalee",
+            70
+          ],
+          [
+            "Ahri",
+            70
+          ],
+          [
+            "Twisted Fate",
+            70
+          ],
+          [
+            "Aurora",
             70
           ],
           [
@@ -11218,27 +11634,27 @@
             55
           ],
           [
-            "Twisted Fate",
-            40
-          ],
-          [
-            "Varus",
-            40
-          ],
-          [
             "Poppy",
-            40
+            55
           ],
           [
             "Jayce",
-            25
+            40
           ],
           [
-            "Nidalee",
-            25
+            "Kennen",
+            40
           ],
           [
-            "Akali",
+            "Camille",
+            40
+          ],
+          [
+            "Neeko",
+            40
+          ],
+          [
+            "Corki",
             25
           ]
         ],
@@ -11266,23 +11682,59 @@
             100
           ],
           [
+            "Graves",
+            100
+          ],
+          [
+            "Qiyana",
+            100
+          ],
+          [
             "Xin Zhao",
             100
           ],
           [
             "Sejuani",
-            85
+            100
           ],
           [
             "Pantheon",
+            100
+          ],
+          [
+            "Viego",
             85
           ],
           [
-            "Jarvan IV",
-            70
+            "Nidalee",
+            85
+          ],
+          [
+            "BelVeth",
+            85
           ],
           [
             "Ivern",
+            85
+          ],
+          [
+            "Lee Sin",
+            85
+          ],
+          [
+            "Poppy",
+            70
+          ],
+          [
+            "Trundle",
+            70
+          ],
+          [
+            "Volibear",
+            70
+          ],
+          [
+            "Udyr",
             70
           ],
           [
@@ -11290,11 +11742,11 @@
             55
           ],
           [
-            "Poppy",
+            "Naafiri",
             55
           ],
           [
-            "Wukong",
+            "Olaf",
             55
           ],
           [
@@ -11302,7 +11754,7 @@
             40
           ],
           [
-            "Naafiri",
+            "Nocturne",
             40
           ],
           [
@@ -11310,15 +11762,15 @@
             40
           ],
           [
-            "Trundle",
+            "Elise",
             25
           ],
           [
-            "Viego",
+            "Brand",
             25
           ],
           [
-            "Nocturne",
+            "Lillia",
             25
           ]
         ],
